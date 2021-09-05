@@ -1,0 +1,21 @@
+h1, h2, h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #3785dd, #3058c5, #1e106b);
+    color: white; 
+}
+
+body {
+  background-color: #5ba2db;
+}
+.modal-body .container-fluid p {
+    color: blue;
+}
+
+.modal-header h3 {
+    color: blue;
+}
